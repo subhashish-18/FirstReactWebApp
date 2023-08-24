@@ -29,20 +29,20 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-##Technologies Used
-- React
-- Sass (SCSS)
-- Node.js
-- npm
+## Technologies Used
+### React
+### Sass (SCSS)
+### Node.js
+### npm
 
-##Project Structure
+## Project Structure
 The project follows a simple structure:
 
-src/ contains the main source code.
-components/ contains React components.
-styles/ contains Sass stylesheets.
-App.js is the main application component.
-index.js is the entry point of the app.
+### src/ contains the main source code.
+### components/ contains React components.
+### styles/ contains Sass stylesheets.
+### App.js is the main application component.
+### index.js is the entry point of the app.
 
 ### Deployment
 
